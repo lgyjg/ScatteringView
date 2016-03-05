@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ScatteringView">
+        <attr name="text" format="string" />
+        <attr name="text_size" format="integer"/>
+    </declare-styleable>
+
+</resources>
