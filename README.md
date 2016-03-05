@@ -8,7 +8,7 @@ ScatteringView
 >  效果图
 
 <br/>
-<img src=""/>
+<img src="https://github.com/lgyjg/ScatteringView/blob/master/raw/screenshot.gif"/>
 <br/>
 
 > 开发环境
